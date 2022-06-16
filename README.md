@@ -6,6 +6,7 @@
 ☑️ JavaScript, HTML and CSS were used in this project.  
 ☑️ The code is written according to the BEM methodology and using flexbox.  
 ❌ The Bootstrap framework was not used.  
+https://kutmua.github.io/the-couples-game/
 
 ---
 ### An example of how the game works.
